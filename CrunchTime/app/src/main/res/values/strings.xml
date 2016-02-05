@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CrunchTime</string>
+    <string name="go_button">Calculate</string>
+    <string name="title_activity_reuslt">ReusltActivity</string>
+    <string-array name="workOutType">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Squats</item>
+        <item>Leg-lift</item>
+        <item>Plank</item>
+        <item>Jumping Jack</item>
+        <item>Pullup</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Swimming</item>
+        <item>Jogging</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+
+    <string-array name="repType">
+        <item>Reps</item>
+        <item>Reps</item>
+        <item>Reps</item>
+        <item>Minutes</item>
+        <item>Minutes</item>
+        <item>Minutes</item>
+        <item>Reps</item>
+        <item>Minutes</item>
+        <item>Minutes</item>
+        <item>Minutes</item>
+        <item>Minutes</item>
+        <item>Minutes</item>
+    </string-array>
+</resources>
